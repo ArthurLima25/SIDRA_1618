@@ -81,6 +81,8 @@ df_final = df_final[colunas_ordenadas]
 # 8. Exporta para Excel
 df_final.to_excel('SIDRA_bahia_1618.xlsx', index=False, sheet_name='Bahia_1618')
 df_final.to_csv('SIDRA_bahia_1618.csv', index=False, sep=',', decimal='.')
+df_final.to_json('SIDRA_bahia_1618.json', orient='records', force_ascii=False, indent=2)
+df_final.to_csv('SIDRA_bahia_1618.tsv', sep='\t', index=False)
 print('Planilha SIDRA_bahia_1618.xlsx gerada com sucesso!')
 
 
