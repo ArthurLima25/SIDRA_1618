@@ -1,0 +1,372 @@
+[
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1 Cereais, leguminosas e oleaginosas",
+    "Área plantada_2025":3649951.0,
+    "Área plantada_2026":3754451.0,
+    "Delta_Area_Plantada":1.0286305213,
+    "Produção_2025":12839577.0,
+    "Produção_2026":13956408.0,
+    "Delta_Producao":1.0869834731
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.1 Algodão herbáceo",
+    "Área plantada_2025":400000.0,
+    "Área plantada_2026":410000.0,
+    "Delta_Area_Plantada":1.025,
+    "Produção_2025":1794000.0,
+    "Produção_2026":1845000.0,
+    "Delta_Producao":1.0284280936
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.2 Amendoim (1ª Safra)",
+    "Área plantada_2025":1301.0,
+    "Área plantada_2026":1301.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":1314.0,
+    "Produção_2026":1309.0,
+    "Delta_Producao":0.996194825
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.3 Amendoim (2ª Safra)",
+    "Área plantada_2025":2550.0,
+    "Área plantada_2026":2550.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":2479.0,
+    "Produção_2026":2481.0,
+    "Delta_Producao":1.0008067769
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.4 Arroz",
+    "Área plantada_2025":450.0,
+    "Área plantada_2026":450.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":750.0,
+    "Produção_2026":750.0,
+    "Delta_Producao":1.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.5 Aveia",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.6 Canola",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.7 Centeio",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.8 Cevada",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.9 Feijão (1ª Safra)",
+    "Área plantada_2025":180000.0,
+    "Área plantada_2026":160000.0,
+    "Delta_Area_Plantada":0.8888888889,
+    "Produção_2025":86400.0,
+    "Produção_2026":100800.0,
+    "Delta_Producao":1.1666666667
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.10 Feijão (2ª Safra)",
+    "Área plantada_2025":170000.0,
+    "Área plantada_2026":160000.0,
+    "Delta_Area_Plantada":0.9411764706,
+    "Produção_2025":100800.0,
+    "Produção_2026":67200.0,
+    "Delta_Producao":0.6666666667
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.11 Feijão (3ª Safra)",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.12 Gergelim",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.13 Girassol",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.14 Mamona",
+    "Área plantada_2025":51000.0,
+    "Área plantada_2026":51000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":31280.0,
+    "Produção_2026":35680.0,
+    "Delta_Producao":1.1406649616
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.15 Milho (1ª Safra)",
+    "Área plantada_2025":280000.0,
+    "Área plantada_2026":290000.0,
+    "Delta_Area_Plantada":1.0357142857,
+    "Produção_2025":1932000.0,
+    "Produção_2026":2088000.0,
+    "Delta_Producao":1.0807453416
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.16 Milho (2ª Safra)",
+    "Área plantada_2025":320000.0,
+    "Área plantada_2026":400000.0,
+    "Delta_Area_Plantada":1.25,
+    "Produção_2025":806400.0,
+    "Produção_2026":1200000.0,
+    "Delta_Producao":1.4880952381
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.17 Soja",
+    "Área plantada_2025":2143500.0,
+    "Área plantada_2026":2178000.0,
+    "Delta_Area_Plantada":1.0160951714,
+    "Produção_2025":8606190.0,
+    "Produção_2026":9162288.0,
+    "Delta_Producao":1.0646160496
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.18 Sorgo",
+    "Área plantada_2025":95150.0,
+    "Área plantada_2026":95150.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":142980.0,
+    "Produção_2026":137590.0,
+    "Delta_Producao":0.9623024199
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.19 Trigo",
+    "Área plantada_2025":6000.0,
+    "Área plantada_2026":6000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":34644.0,
+    "Produção_2026":34860.0,
+    "Delta_Producao":1.0062348459
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"1.20 Triticale",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"4 Banana",
+    "Área plantada_2025":69000.0,
+    "Área plantada_2026":69000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":905728.0,
+    "Produção_2026":896502.0,
+    "Delta_Producao":0.9898137189
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"5 Batata - inglesa (1ª Safra)",
+    "Área plantada_2025":2650.0,
+    "Área plantada_2026":2650.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":113110.0,
+    "Produção_2026":114146.0,
+    "Delta_Producao":1.0091592255
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"6 Batata - inglesa (2ª Safra)",
+    "Área plantada_2025":2650.0,
+    "Área plantada_2026":2650.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":113110.0,
+    "Produção_2026":114146.0,
+    "Delta_Producao":1.0091592255
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"7 Batata - inglesa (3ª Safra)",
+    "Área plantada_2025":2650.0,
+    "Área plantada_2026":2650.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":113897.0,
+    "Produção_2026":114607.0,
+    "Delta_Producao":1.0062337024
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"8 Cacau",
+    "Área plantada_2025":449100.0,
+    "Área plantada_2026":429100.0,
+    "Delta_Area_Plantada":0.9554664885,
+    "Produção_2025":119063.0,
+    "Produção_2026":137369.0,
+    "Delta_Producao":1.1537505354
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"9 Café arábica",
+    "Área plantada_2025":80000.0,
+    "Área plantada_2026":70000.0,
+    "Delta_Area_Plantada":0.875,
+    "Produção_2025":88800.0,
+    "Produção_2026":84000.0,
+    "Delta_Producao":0.9459459459
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"10 Café canephora",
+    "Área plantada_2025":48000.0,
+    "Área plantada_2026":48600.0,
+    "Delta_Area_Plantada":1.0125,
+    "Produção_2025":172800.0,
+    "Produção_2026":186624.0,
+    "Delta_Producao":1.08
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"11 Cana-de-açúcar",
+    "Área plantada_2025":79000.0,
+    "Área plantada_2026":79000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":6241000.0,
+    "Produção_2026":5499528.0,
+    "Delta_Producao":0.8811933985
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"12 Castanha-de-caju",
+    "Área plantada_2025":16000.0,
+    "Área plantada_2026":16000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":2925.0,
+    "Produção_2026":2940.0,
+    "Delta_Producao":1.0051282051
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"15 Fumo",
+    "Área plantada_2025":7850.0,
+    "Área plantada_2026":7850.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":10574.0,
+    "Produção_2026":10660.0,
+    "Delta_Producao":1.0081331568
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"17 Juta",
+    "Área plantada_2025":0.0,
+    "Área plantada_2026":0.0,
+    "Delta_Area_Plantada":0.0,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"18 Laranja",
+    "Área plantada_2025":57500.0,
+    "Área plantada_2026":57500.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":631821.0,
+    "Produção_2026":633110.0,
+    "Delta_Producao":1.0020401348
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"21 Mandioca",
+    "Área plantada_2025":123000.0,
+    "Área plantada_2026":123000.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":906648.0,
+    "Produção_2026":872521.0,
+    "Delta_Producao":0.9623591515
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"24 Tomate",
+    "Área plantada_2025":4240.0,
+    "Área plantada_2026":4240.0,
+    "Delta_Area_Plantada":1.0,
+    "Produção_2025":182699.0,
+    "Produção_2026":183111.0,
+    "Delta_Producao":1.0022550753
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"25 Uva",
+    "Área plantada_2025":3400.0,
+    "Área plantada_2026":4000.0,
+    "Delta_Area_Plantada":1.1764705882,
+    "Produção_2025":102000.0,
+    "Produção_2026":153900.0,
+    "Delta_Producao":1.5088235294
+  },
+  {
+    "Mes_Divulgacao":"outubro 2026",
+    "Produto":"Total",
+    "Área plantada_2025":4594991.0,
+    "Área plantada_2026":4670691.0,
+    "Delta_Area_Plantada":1.016474461,
+    "Produção_2025":0.0,
+    "Produção_2026":0.0,
+    "Delta_Producao":0.0
+  }
+]
