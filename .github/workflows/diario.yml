@@ -20,7 +20,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Executar script SIDRA
-        run: python SIDRA_1618_1.1.py
+        run: python SIDRA_1618_1.2.py
 
       - name: Guardar planilha como Artifact
         uses: actions/upload-artifact@v4
